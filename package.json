@@ -1,0 +1,26 @@
+{
+  "name": "online-store-server",
+  "version": "1.0.0",
+  "description": "web server for an online store",
+  "keywords": [
+    "online",
+    "store",
+    "e-commerce",
+    "server"
+  ],
+  "homepage": "https://github.com/JoakimTeixeira/online-store-server#readme",
+  "bugs": {
+    "url": "https://github.com/JoakimTeixeira/online-store-server/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JoakimTeixeira/online-store-server.git"
+  },
+  "license": "MIT",
+  "author": "Joakim Teixeira",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
