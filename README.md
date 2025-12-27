@@ -1,2 +1,3 @@
-# online-store-server
+# Online Store Server
+
 A online store web server
